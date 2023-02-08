@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/qrcode.png" group-title="Variedades", www.listaiptv.gratis
+#EXTINF:-1 tvg-logo="https://sventv.vercel.app/assets/img/banners/Cinemax.png" group-title="Filmes",
 https://sinalpublico.com/player3/ch.php?canal=cinemax
