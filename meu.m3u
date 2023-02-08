@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://sventv.vercel.app/assets/img/banners/Cinemax.png" group-title="Filmes",
-https://sinalpublico.com/player3/ch.php?canal=cinemax
+#EXTINF:-1 tvg-logo="https://sventv.vercel.app/assets/img/banners/Cinemax.png" group-title="Filmes", Cinemax
+https://m3u9.ml/a2/hls1/_cinemax-bk2.m3u8
