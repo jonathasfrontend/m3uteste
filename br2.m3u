@@ -68,6 +68,3 @@ https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TPjz9Pi.png" group-title="BRASIL",TV FUTURO
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-
-#EXTINF:0,MyCamTV Teen Girls     
-http://live.mycamtv.com/teen.m3u8
